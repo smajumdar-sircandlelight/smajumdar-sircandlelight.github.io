@@ -1,0 +1,33 @@
+baseURL = "https://smajumdar-sircandlelight.github.io/"
+languageCode = "en-us"
+title = "My Blog"
+theme = "PaperMod"
+paginate = 5
+
+[params]
+  author = "smajumdar-sircandlelight"
+  description = "My personal blog"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "Hi, I'm Shayer 👋"
+  Content = "Welcome to my blog. I write about things I find interesting."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/smajumdar-sircandlelight"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
