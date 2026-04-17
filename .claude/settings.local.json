@@ -4,7 +4,9 @@
       "Bash(gh auth:*)",
       "Bash(brew install:*)",
       "Bash(xcode-select -p)",
-      "Bash(sw_vers)"
+      "Bash(sw_vers)",
+      "Bash(gh run:*)",
+      "Bash(gh api:*)"
     ]
   }
 }

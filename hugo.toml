@@ -1,12 +1,12 @@
 baseURL = "https://smajumdar-sircandlelight.github.io/"
 languageCode = "en-us"
-title = "My Blog"
+title = "Negative Spaces"
 theme = "PaperMod"
 paginate = 5
 
 [params]
   author = "smajumdar-sircandlelight"
-  description = "My personal blog"
+  description = "Negative Spaces"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = false
