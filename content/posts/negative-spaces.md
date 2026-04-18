@@ -3,6 +3,7 @@ date = '2026-04-18T00:00:00+00:00'
 draft = false
 title = 'Negative Spaces'
 description = 'A small corner of the internet where the noise gets to stay outside.'
+summary = 'An introduction to Negative Spaces — a small corner of the internet for ideas that don't quite fit anywhere else.'
 +++
 
 <style>
