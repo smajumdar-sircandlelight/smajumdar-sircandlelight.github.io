@@ -1,12 +1,11 @@
 baseURL = "https://smajumdar-sircandlelight.github.io/"
-
-[markup.goldmark.renderer]
-  unsafe = true
-
 languageCode = "en-us"
 title = "Negative Spaces"
 theme = "PaperMod"
 paginate = 5
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   author = "smajumdar-sircandlelight"
