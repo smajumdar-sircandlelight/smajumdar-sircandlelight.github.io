@@ -3,8 +3,11 @@ date = '2026-04-18T00:00:00+00:00'
 draft = false
 title = 'Negative Spaces'
 description = 'A small corner of the internet where the noise gets to stay outside.'
-summary = "An introduction to Negative Spaces — a small corner of the internet for ideas that don't quite fit anywhere else."
 +++
+
+An introduction to Negative Spaces — a small corner of the internet for ideas that don't quite fit anywhere else.
+
+<!--more-->
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=DM+Mono:wght@300&display=swap');
