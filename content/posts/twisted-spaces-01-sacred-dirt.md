@@ -2,28 +2,29 @@
 date = '2026-04-19T00:00:00+00:00'
 draft = false
 title = 'Twisted Spaces 01 - Sacred Dirt'
-
-[cover]
-  image = '/images/Sacred Dirt.png'
-  alt = 'Sacred Dirt'
 +++
 
-They opened my bags,\
-Torn, battered, they held nothing,\
-But dried fear, and a few torn shirts
+<div style="display: flex; gap: 2.5rem; align-items: flex-start; flex-wrap: wrap;">
+  <img src="/images/Sacred Dirt.png" alt="Sacred Dirt" style="width: 340px; max-width: 100%; border-radius: 4px; flex-shrink: 0;">
+  <div style="flex: 1; min-width: 220px; line-height: 2;">
+    <p>They opened my bags,<br>
+    Torn, battered, they held nothing,<br>
+    But dried fear, and a few torn shirts</p>
 
-As they waved their metal sticks,\
-To discern whether I was 'safe',\
-They found my mother's old powder box
+    <p>As they waved their metal sticks,<br>
+    To discern whether I was 'safe',<br>
+    They found my mother's old powder box</p>
 
-Beautiful, ornate, and distinctly Persian in style,\
-Yet, it contained nothing but dirt,\
-And so, the gatekeeper looked at me curiously,
+    <p>Beautiful, ornate, and distinctly Persian in style,<br>
+    Yet, it contained nothing but dirt,<br>
+    And so, the gatekeeper looked at me curiously,</p>
 
-I said not a word, for alas!\
-How could he know?\
-The legacy of the dirt was sacred to me,
+    <p>I said not a word, for alas!<br>
+    How could he know?<br>
+    The legacy of the dirt was sacred to me,</p>
 
-For that little, now, was home.
+    <p>For that little, now, was home.</p>
 
-— *Shayer*
+    <p><em>— Shayer</em></p>
+  </div>
+</div>
