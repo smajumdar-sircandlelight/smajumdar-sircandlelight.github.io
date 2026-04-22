@@ -5,7 +5,7 @@ title = 'Twisted Spaces 02 - Red Jasmine'
 +++
 <div style="display: flex; gap: 2.5rem; align-items: flex-start; flex-wrap: wrap;">
 <img src="/images/Red Jasmine.png" alt="Red Jasmine" style="width: 340px; max-width: 100%; border-radius: 4px; flex-shrink: 0;">
-<div style="flex: 1; min-width: 220px; line-height: 2;">
+<div style="flex: 1; min-width: 220px; line-height: 2; white-space: pre-line;">
 I knew not the value of flowers
 till I chanced upon the scent of familiar jasmine.
 I stumbled into the shop.
